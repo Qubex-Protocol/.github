@@ -21,7 +21,7 @@ Designed for enterprise use, Qubex Protocol provides consistent APIs, real-time 
 
 <details><summary>Links</summary>
 
-- [HomePage]((https://www.qubex-protocol.io/))
+- [HomePage](https://www.qubex-protocol.io/)
 - [Documentation - In comming!](https://docs.votre-site.com)
 - [Twitter](https://twitter.com/QubexProtocol)
 </details>
